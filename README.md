@@ -79,7 +79,7 @@ It can obviously be part of a full python stack but without any changes can be a
 Routing and file structure will be automatically done from the Epyk Components
 
 <div align="center" >
-    <img width=300 src="https://github.com/epykure/epyk-angular/blob/master/static/images/routing.PNG?raw=true">
+    <img width=600 src="https://github.com/epykure/epyk-angular/blob/master/static/images/routing.PNG?raw=true">
 </div>
 
 This can allow you to map your ML or IA algorithm to reports visible in Jupyter Notebook and in the same way to more 
