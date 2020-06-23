@@ -4,6 +4,7 @@
 
 # Epyk on Angular!
 
+No need to get familiar to TypeScript or even to learn Javascript to start building rich Angular pages !
 
 Presentation
 ================================
@@ -106,6 +107,8 @@ Compatibility
 ================================
 
 This has been tested on Angular9.
+
+You can get more example on the common templates [repository](https://github.com/epykure/epyk-templates/tree/master/web/angular)
 
 More examples of reports are available on Github or in [Jupyter](https://nbviewer.jupyter.org/github/epykure/epyk-templates-notebooks/blob/master/index.ipynb)
 
