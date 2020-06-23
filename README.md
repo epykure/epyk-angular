@@ -83,7 +83,7 @@ Routing and file structure will be automatically done from the Epyk Components
 </div>
 
 This can allow you to map your ML or IA algorithm to reports visible in Jupyter Notebook and in the same way to more 
-moderne web plateform.
+moderne web platform.
 
 <div align="center" >
     <img width=300 src="https://github.com/epykure/epyk-angular/blob/master/static/images/components.PNG?raw=true">
@@ -97,7 +97,7 @@ As Epyk is a light wrapper it is possible also to interface with the popular com
 So in the next release of the core framework PrimeNg, Bootstrap, Material Design will be integrated
 
 <div align="center" >
-    <img width=300 src="https://github.com/epykure/epyk-angular/blob/master/static/images/extensions.PNG?raw=true">
+    <img width=600 src="https://github.com/epykure/epyk-angular/blob/master/static/images/extensions.PNG?raw=true">
 </div>
 
 Similar concept will be done for React and FluentUI !
